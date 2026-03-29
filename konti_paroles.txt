@@ -1,0 +1,14 @@
+FootFaceMedical testa konti
+
+Admin konts
+E-pasts: admin@footfacemedical.test
+Parole: Adm!n-9Kf2Qp7L
+Loma: admin
+
+Podolog konts
+E-pasts: podolog@footfacemedical.test
+Parole: Podolog-7Vd4!mQ2
+Loma: podolog
+
+Piezime:
+- Ja konti vel nav datubaze, palaid: php artisan db:seed
